@@ -17,7 +17,7 @@ Desempenho do canal
 
 Algumas colunas do dataset:
 
-![Dicionário de Colunas](https://github.com/EbaPed/EBA-aula05-ParaCasa/tree/main/image)
+![Dicionário de Colunas](image/dictionary.png)
 
 
 
