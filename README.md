@@ -48,7 +48,7 @@ No terminal, clone este repositório:
 
 ```bash
 git clone https://github.com/EbaPed/EBA-aula05-ParaCasa.git
-cd EBA_aula01_EstatisticaDescritiva
+cd EBA-aula05-ParaCasa
 ```
 
 2. **Configurar a versão do Python com Pyenv**
