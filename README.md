@@ -1,7 +1,4 @@
-# EBA- Aula05: Para Casa Desafio do IFOOD (continuação)
-
-# Para Casa- **DESAFIO DO IFOOD**: 
-# Aula 01- Estatística Descritiva
+# EBA- Aula 05: Para Casa Desafio do IFOOD (continuação)
 
 
 Chegou a hora de treinarmos os conceitos ensinados em aula!
