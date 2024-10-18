@@ -20,7 +20,7 @@ Desempenho do canal
 
 Algumas colunas do dataset:
 
-![Dicionário de Colunas Imagem](\image\dictionary.png)
+![Dicionário de Colunas Imagem](image\dictionary.png)
 
 
 
@@ -50,7 +50,7 @@ Este repositório contém os arquivos e códigos necessários para a aula de Est
 No terminal, clone este repositório:
 
 ```bash
-git clone https://github.com/EbaPed/EBA_para_casa_aula01.git
+git clone https://github.com/EbaPed/EBA-aula05-ParaCasa.git
 cd EBA_aula01_EstatisticaDescritiva
 ```
 
